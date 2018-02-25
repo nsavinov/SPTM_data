@@ -1,1 +1,1 @@
-# data
+# Data for SPTM method
